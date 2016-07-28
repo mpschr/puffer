@@ -5,8 +5,8 @@ requires_list = [
     'coverage==3.7.1',
     'mock==1.0.1',
     'nose==1.3.0',
-    'rauth==0.6.2',
-    'requests==1.2.3',
+    'rauth==0.7.2',
+    'requests==2.10.0',
 ]
 
 setup(name='puffer',
@@ -20,7 +20,6 @@ setup(name='puffer',
       include_package_data=True,
       install_requires=requires_list,
       classifiers=[
-          'Programming Language :: Python :: 2.7',
           'Programming Language :: Python :: 3.5'
       ]
       )
