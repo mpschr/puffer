@@ -56,7 +56,7 @@ class API(object):
 
         response = self.session.post(url=BASE_URL % url, headers=headers, **params)
 
-        return parser(response.content)
+        return parser(response.content.decode("utf-8"))
 
     @property
     def info(self):
