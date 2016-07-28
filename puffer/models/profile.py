@@ -1,5 +1,5 @@
-from buffpy.response import ResponseObject
-from buffpy.managers.updates import Updates
+from puffer.response import ResponseObject
+from puffer.managers.updates import Updates
 
 PATHS = {
   'GET_PROFILES': 'profiles.json',

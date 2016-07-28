@@ -1,4 +1,4 @@
-from buffpy.response import ResponseObject
+from puffer.response import ResponseObject
 
 class User(ResponseObject):
   '''

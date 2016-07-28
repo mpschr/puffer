@@ -2,8 +2,8 @@ from pprint import pprint as pp
 
 from colorama import Fore
 
-from buffpy.managers.profiles import Profiles
-from buffpy.api import API
+from puffer.managers.profiles import Profiles
+from puffer.api import API
 
 # check http://bufferapp.com/developers/apps to retrieve a token
 # or generate one with the example

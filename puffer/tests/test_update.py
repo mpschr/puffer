@@ -1,7 +1,7 @@
 from nose.tools import eq_
 from mock import MagicMock
 
-from buffpy.models.update import Update, PATHS
+from puffer.models.update import Update, PATHS
 
 def test_update_retrieving():
   '''

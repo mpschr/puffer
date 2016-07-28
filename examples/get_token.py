@@ -1,6 +1,6 @@
 from colorama import Fore
 
-from buffpy import AuthService
+from puffer import AuthService
 
 client_id = 'add_apps_client_id'
 client_secret = 'add_apps_secret'

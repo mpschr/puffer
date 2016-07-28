@@ -3,7 +3,7 @@ import urllib
 
 from rauth import OAuth2Session, OAuth2Service
 
-from buffpy.response import ResponseObject
+from puffer.response import ResponseObject
 
 
 BASE_URL = 'https://api.bufferapp.com/1/%s'

@@ -1,4 +1,4 @@
-from buffpy.models.profile import PATHS, Profile
+from puffer.models.profile import PATHS, Profile
 
 class Profiles(list):
   '''
