@@ -10,7 +10,7 @@ requires_list = [
 ]
 
 setup(name='puffer',
-      version='1.08',
+      version='1.8.1',
       platforms='any',
       description='Python wrapper for the Buffer API',
       author='Vlad Temian, Victor Villas',
