@@ -1,10 +1,20 @@
-puffer
-======
+==========================================
+|img| puffer |qs| |bs| |cc| |rtd| |gitter| 
+==========================================
 Simple to use python wrapper for the Buffer API
 
-[![Build Status](https://travis-ci.org/villasv/puffer.png?branch=master)](https://travis-ci.org/vtemian/buffpy)
-[![Coverage Status](https://coveralls.io/repos/vtemian/buffpy/badge.png?branch=master)](https://coveralls.io/r/vtemian/buffpy?branch=master)
-[![Downloads](https://pypip.in/d/buffpy/badge.png)](https://crate.io/packages/buffpy/)
+.. |img| image:: https://raw.githubusercontent.com/villasv/puffer/master/docs/icon_sm.png
+  :width: 30
+.. |qs| image:: https://scrutinizer-ci.com/g/villasv/puffer/badges/quality-score.png?b=master
+  :target: https://scrutinizer-ci.com/g/villasv/puffer/?branch=master
+.. |bs| image:: https://travis-ci.org/villasv/puffer.svg?branch=master
+  :target: https://travis-ci.org/villasv/puffer
+.. |cc| image:: https://coveralls.io/repos/github/villasv/puffer/badge.svg?branch=master
+  :target: https://coveralls.io/github/villasv/puffer?branch=master
+.. |rtd| image:: https://readthedocs.org/projects/puffer/badge/?version=latest
+  :target: http://puffer.readthedocs.io/en/latest/?badge=latest
+.. |gitter| image:: https://badges.gitter.im/villasv/puffer.svg
+  :target: https://gitter.im/villasv/puffer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
 ### ORM`ish
 ------------
