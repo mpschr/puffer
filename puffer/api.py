@@ -42,7 +42,7 @@ class API(object):
             raise ValueError('Please set an access token first!')
 
         response = self.session.get(url=BASE_URL % url)
-        print(response.content.decode("utf-8"))
+
         return parser(response.content.decode("utf-8"))
 
     def post(self, url, parser=None, **params):
